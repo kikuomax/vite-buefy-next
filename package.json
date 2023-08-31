@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@ntohq/buefy-next": "^0.1.1",
+    "@vue/compat": "^3.3.4",
     "vue": "^3.3.4"
   },
   "devDependencies": {
